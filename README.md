@@ -2,7 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<<<<<<< HEAD
 ![Screenshot (42)](https://github.com/Agniva007/personal-portfolio/assets/78679487/2de742f5-3c5e-4894-8d12-571fb878ab74)
+=======
+>>>>>>> 5f2c519 (edit readme)
 
 
 Built using:
