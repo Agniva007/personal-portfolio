@@ -43,10 +43,30 @@ export const Skills = () => {
                             </div>
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>Java</h5>
+                                <h5>Node JS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>Express JS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>MySQL</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>Mongo DB</h5>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
+                                <h5>Redis</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter3} alt="Image" />
+                                <h5>WebSocket</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
                                 <h5>React JS</h5>
                             </div>
                             <div className="item">
@@ -58,20 +78,20 @@ export const Skills = () => {
                                 <h5>CSS</h5>
                             </div>
                             <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>Tailwind CSS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>Material UI</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>Java</h5>
+                            </div>
+                            <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>BootStrap</h5>
-                            </div>
-                            <div className="item">
-                                <img src={meter2} alt="Image" />
-                                <h5>Node JS</h5>
-                            </div>
-                            <div className="item">
-                                <img src={meter2} alt="Image" />
-                                <h5>Express JS</h5>
-                            </div>
-                            <div className="item">
-                                <img src={meter3} alt="Image" />
-                                <h5>Mongo DB</h5>
+                                <h5>AWS(EC2, S3, RDS)</h5>
                             </div>
                         </Carousel>
                     </div>
